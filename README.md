@@ -6,7 +6,7 @@ Welcome to my academic project portfolio. This repository showcases selected pro
 
 | Project | Focus | Tools |
 |---------|------|------|
-| Business Process Analysis – VinFast Showroom | BPMN, Process Improvement, Value-Added Analysis | Bizagi Modeler |
+| Business Process Analysis – VinFast Showroom | BPMN, Process Improvement, Value-Added Analysis | BPMN.io,BIMP Simulator |
 | Business Planning – Samsung AI Glasses | Financial Planning, Market Analysis, Feasibility Analysis | Microsoft Excel |
 | Customer Satisfaction Analysis – Circle K | Survey Design, Data Analysis, Service Quality | Excel, SmartPLS 4 |
 
